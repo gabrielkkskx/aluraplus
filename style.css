@@ -4,3 +4,7 @@
     --botao: #167BF7;
     --background: #00030C; 
 }
+
+body{
+    background-color: var(--background);
+}
