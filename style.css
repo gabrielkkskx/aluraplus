@@ -3,11 +3,13 @@
     --cinza: #C0C0C0;
     --botao: #167BF7;
     --background: #00030C; 
+    --fonte-principal: 'Inter';
 }
 
 body{
     background-color: var(--background);
     color: var(--branco);
+    font-family: var(--fonte-principal);
 }
 
 *{
@@ -33,4 +35,9 @@ body{
     padding: 1em;
     color: var(--branco);
     display: block;
+}
+
+.botaosecundario{
+    background-color: transparent;
+    border: 2px solid var(--branco);
 }
