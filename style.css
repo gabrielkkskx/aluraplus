@@ -96,3 +96,7 @@ body{
 .container_descricao{
     padding: 2em;
 }
+
+.notebook{
+    width: 90%;
+}
