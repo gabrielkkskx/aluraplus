@@ -100,3 +100,17 @@ body{
 .notebook{
     width: 90%;
 }
+
+.dispositivos_lista{
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+}
+
+.dispositivos{
+    text-align: center;
+}
+
+.dispositivos_titulo{
+    
+}
