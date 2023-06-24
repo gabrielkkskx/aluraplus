@@ -146,3 +146,10 @@ body{
     margin: 5em 3em;
 }
 
+.rodape_logo{
+    margin-bottom: 2em;
+}
+
+.lista_link a:hover{
+    color: var(--botao);
+}
