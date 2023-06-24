@@ -4,6 +4,7 @@
     --botao: #167BF7;
     --background: #00030C; 
     --fonte-principal: 'Inter';
+    --botao-efeito: #16caf7;
 }
 
 body{
@@ -156,4 +157,9 @@ body{
 
 .lista_link a:active{
     color: #fffb02;
+}
+
+.containerbotao:hover{
+    background-color: var(--botao-efeito);
+    color: var(--background);
 }
