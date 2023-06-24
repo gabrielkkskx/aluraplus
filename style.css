@@ -153,3 +153,7 @@ body{
 .lista_link a:hover{
     color: var(--botao);
 }
+
+.lista_link a:active{
+    color: #8FF3FA;
+}
