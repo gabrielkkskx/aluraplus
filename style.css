@@ -8,7 +8,6 @@
     --lingua: #EC2F46;
     --combo: #ffd700;
     --destaque: #FF0000;
-    --somente: #c1e1a7;
 }
 
 body{
@@ -183,15 +182,4 @@ body{
 
 .destaque{
     color: var(--destaque);
-}
-
-.somente{
-    background-color: var(--somente);
-    border-radius: 5px;
-    padding: 1em;
-    color: var(--branco);
-    box-shadow: 4px 4px var(--branco);
-    display: block;
-    text-decoration: none;
-    margin-bottom: 1em;
 }
