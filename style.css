@@ -82,7 +82,7 @@ body{
     font-weight: 700;
     font-size: 48px;
     color: var(--branco);
-    margin-bottom: 1em;
+    margin-bottom: 0.1em;
 }
 
 .descricao_texto{
