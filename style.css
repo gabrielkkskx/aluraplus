@@ -7,6 +7,7 @@
     --botao-efeito: #00f7ff;
     --lingua: #EC2F46;
     --combo: #ffd700;
+    --destaque: #FF0000;
 }
 
 body{
@@ -176,4 +177,8 @@ body{
 
 .combo{
     color: var(--combo);
+}
+
+.destaque{
+    color: var(--destaque);
 }
