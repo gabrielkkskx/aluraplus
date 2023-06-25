@@ -8,7 +8,7 @@
     --lingua: #EC2F46;
     --combo: #ffd700;
     --destaque: #FF0000;
-    --somente: #9bc47a;
+    --somente: #c1e1a7;
 }
 
 body{
@@ -186,10 +186,10 @@ body{
 }
 
 .somente{
-    background-color: var(--botao);
+    background-color: var(--somente);
     border-radius: 5px;
     padding: 1em;
-    color: var(--somente);
+    color: var(--branco);
     box-shadow: 4px 4px var(--branco);
     display: block;
     text-decoration: none;
