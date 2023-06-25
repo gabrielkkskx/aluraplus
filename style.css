@@ -168,3 +168,7 @@ body{
 .telas{
     width:90%;
 }
+
+.lingua{
+    color: var(--lingua);
+}
