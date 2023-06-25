@@ -163,3 +163,7 @@ body{
     background-color: var(--botao-efeito);
     color: var(--background);
 }
+
+.telas{
+    width: 90%;
+}
