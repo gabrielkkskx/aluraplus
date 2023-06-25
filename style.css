@@ -8,6 +8,7 @@
     --lingua: #EC2F46;
     --combo: #ffd700;
     --destaque: #FF0000;
+    --sombra: #698daa;
 }
 
 body{
@@ -42,7 +43,7 @@ body{
     border-radius: 5px;
     padding: 1em;
     color: var(--branco);
-    box-shadow: 4px 4px var(--background);
+    box-shadow: 4px 4px var(--sombra);
     display: block;
     text-decoration: none;
     margin-bottom: 1em;
