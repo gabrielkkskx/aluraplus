@@ -42,7 +42,7 @@ body{
     border-radius: 5px;
     padding: 1em;
     color: var(--branco);
-    box-shadow: 4px 4px var(--cinza);
+    box-shadow: 4px 4px var(--background);
     display: block;
     text-decoration: none;
     margin-bottom: 1em;
