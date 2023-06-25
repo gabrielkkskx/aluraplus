@@ -1,7 +1,7 @@
 :root{
     --branco: #FFFFFF;
     --cinza: #C0C0C0;
-    --botao: #62E8F0;
+    --botao: #167BF7;
     --background: #00030C; 
     --fonte-principal: 'Inter';
     --botao-efeito: #00f7ff;
@@ -41,7 +41,7 @@ body{
     background-color: var(--botao);
     border-radius: 5px;
     padding: 1em;
-    color: var(--background);
+    color: var(--branco);
     display: block;
     text-decoration: none;
     margin-bottom: 1em;
