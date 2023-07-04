@@ -92,7 +92,7 @@ body{
 
 .descricao_texto{
     color: var(--cinza);
-    font-size: 50px;
+    font-size: 20px;
 }
 
 .secundario_botao{
