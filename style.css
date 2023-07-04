@@ -16,7 +16,7 @@ body{
     background-color: var(--background);
     color: var(--branco);
     font-family: var(--fonte-principal);
-    font-size: 20px;
+    font-size: 16px;
     font-weight: 400;
 }
 
@@ -93,6 +93,7 @@ body{
 
 .descricao_texto{
     color: var(--cinza);
+    font-size: 20px;
 }
 
 .secundario_botao{
