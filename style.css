@@ -9,6 +9,7 @@
     --combo: #ffd700;
     --destaque: #FF0000;
     --sombra: #698daa;
+    --dispositivos: #A93CFF;
 }
 
 body{
@@ -157,7 +158,7 @@ body{
 }
 
 .lista_link a:hover{
-    color: var(--botao);
+    color: var(--dispositivos);
 }
 
 .lista_link a:active{
