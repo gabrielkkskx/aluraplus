@@ -174,9 +174,13 @@ body{
     color: #fffb02;
 }
 
-.containerbotao:hover{
+.containerbotao a:hover{
     background-color: var(--botao-efeito);
     color: var(--background);
+}
+
+.botaosecundario{
+    background-color: var(--botao-efeito);
 }
 
 .telas{
