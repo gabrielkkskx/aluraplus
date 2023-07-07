@@ -39,6 +39,8 @@ body{
 }
 
 .containerbotao{
+    background: rgb(99,29,168);
+    background: linear-gradient(0deg, rgba(99,29,168,1) 0%, rgba(111,64,157,1) 100%);
     border-radius: 5px;
     padding: 1em;
     color: var(--branco);
@@ -165,7 +167,7 @@ body{
     color: #fffb02;
 }
 
-.testebotao:hover{
+.containerbotao:hover{
     background-color: var(--botao-efeito);
     color: var(--background);
 }
@@ -184,9 +186,4 @@ body{
 
 .destaque{
     color: var(--destaque);
-}
-
-.testebotao{
-    background: rgb(99,29,168);
-    background: linear-gradient(0deg, rgba(99,29,168,1) 0%, rgba(111,64,157,1) 100%);
 }
