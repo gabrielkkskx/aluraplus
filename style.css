@@ -165,7 +165,7 @@ body{
     color: #fffb02;
 }
 
-.containerbotao:hover{
+.testebotao:hover{
     background-color: var(--botao-efeito);
     color: var(--background);
 }
