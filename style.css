@@ -4,7 +4,7 @@
     --botao: #0e2c40;
     --background: #00030C; 
     --fonte-principal: 'Inter';
-    --botao-efeito: #70bdbd;
+    --botao-efeito: #148D8D;
     --lingua: #EC2F46;
     --combo: #ffd700;
     --destaque: #FF0000;
@@ -39,8 +39,7 @@ body{
 }
 
 .containerbotao{
-    background: rgb(99,29,168);
-    background: linear-gradient(0deg, rgba(99,29,168,1) 0%, rgba(111,64,157,1) 100%);
+    background-color: var(--botao);
     border-radius: 5px;
     padding: 1em;
     color: var(--branco);
@@ -53,13 +52,6 @@ body{
 .botaosecundario{
     background-color: transparent;
     border: 2px solid var(--branco);
-    border-radius: 5px;
-    padding: 1em;
-    color: var(--branco);
-    box-shadow: 4px 4px var(--sombra);
-    display: block;
-    text-decoration: none;
-    margin-bottom: 1em;
 }
 
 .container_aviso{
@@ -174,13 +166,9 @@ body{
     color: #fffb02;
 }
 
-.containerbotao a:hover{
+.containerbotao:hover{
     background-color: var(--botao-efeito);
     color: var(--background);
-}
-
-.botaosecundario{
-    background-color: var(--botao-efeito);
 }
 
 .telas{
