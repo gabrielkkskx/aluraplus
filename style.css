@@ -53,6 +53,13 @@ body{
 .botaosecundario{
     background-color: transparent;
     border: 2px solid var(--branco);
+    border-radius: 5px;
+    padding: 1em;
+    color: var(--branco);
+    box-shadow: 4px 4px var(--sombra);
+    display: block;
+    text-decoration: none;
+    margin-bottom: 1em;
 }
 
 .container_aviso{
