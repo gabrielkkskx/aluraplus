@@ -186,3 +186,7 @@ body{
 .destaque{
     color: var(--destaque);
 }
+
+.bluezao{
+    text-decoration: none;
+}
