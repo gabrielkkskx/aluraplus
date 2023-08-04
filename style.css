@@ -5,6 +5,7 @@
     --background: #00030C; 
     --fonte-principal: 'Inter';
     --botao-efeito: #148D8D;
+    --efeito-secundario: #c7e0f4;
     --lingua: #EC2F46;
     --combo: #ffd700;
     --destaque: #FF0000;
@@ -168,6 +169,11 @@ body{
 
 .containerbotao:hover{
     background-color: var(--botao-efeito);
+    color: var(--background);
+}
+
+.botaosecundario:hover{
+    background-color: var(--efeito-secundario);
     color: var(--background);
 }
 
