@@ -11,6 +11,7 @@
     --destaque: #FF0000;
     --sombra: #698daa;
     --dispositivos: #A93CFF;
+    --efeito-letra: #666565;
 }
 
 body{
@@ -196,4 +197,8 @@ body{
 .bluezao{
     text-decoration: none;
     color: var(--cinza);
+}
+
+.bluezao:hover{
+    color: var(--efeito-letra)
 }
