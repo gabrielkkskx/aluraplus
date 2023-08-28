@@ -204,5 +204,5 @@ body{
 }
 
 .led_img{
-    filter: drop-shadow(0 0 0.4em rgb(223, 221, 221));
+    filter: drop-shadow(0 0 0.4em rgb(175, 123, 223));
 }
