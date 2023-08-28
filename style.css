@@ -208,15 +208,15 @@ body{
 }
 
 .led_cll{
-    filter: drop-shadow(0 0 0.4em rgb(36, 43, 133));
+    filter: drop-shadow(0 0 0.4em rgb(0, 17, 255));
 }
 
 
 .led_desktop{
-    filter: drop-shadow(0 0 0.4em rgb(73, 218, 104));
+    filter: drop-shadow(0 0 0.4em rgb(0, 255, 55));
 }
 
 
 .led_tv{
-    filter: drop-shadow(0 0 0.4em rgb(255, 32, 32));
+    filter: drop-shadow(0 0 0.4em rgb(255, 2, 2));
 }
