@@ -213,10 +213,10 @@ body{
 
 
 .led_desktop{
-    filter: drop-shadow(0 0 0.4em rgb(0, 255, 55));
+    filter: drop-shadow(0 0 0.4em rgb(255, 0, 0));
 }
 
 
 .led_tv{
-    filter: drop-shadow(0 0 0.4em rgb(255, 2, 2));
+    filter: drop-shadow(0 0 0.4em rgb(0 255 55));
 }
