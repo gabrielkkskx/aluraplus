@@ -218,5 +218,5 @@ body{
 
 
 .led_tv{
-    filter: drop-shadow(0 0 1em rgb(0 255 55));
+    filter: drop-shadow(0 0 0.4em rgb(0, 255, 221));
 }
