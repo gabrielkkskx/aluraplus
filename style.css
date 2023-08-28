@@ -207,6 +207,16 @@ body{
     filter: drop-shadow(0 0 0.4em rgb(175, 123, 223));
 }
 
-.led_rodape{
-    filter: drop-shadow(0 0 0.4em rgb(229 229 229));
+.led_cll{
+    filter: drop-shadow(0 0 0.4em rgb(36, 43, 133));
+}
+
+
+.led_desktop{
+    filter: drop-shadow(0 0 0.4em rgb(73, 218, 104));
+}
+
+
+.led_tv{
+    filter: drop-shadow(0 0 0.4em rgb(255, 32, 32));
 }
