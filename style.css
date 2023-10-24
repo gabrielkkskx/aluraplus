@@ -220,3 +220,41 @@ body{
 .led_tv{
     filter: drop-shadow(0 0 0.4em rgb(0, 255, 221));
 }
+
+@media screen and (max-width: 768px) {
+
+    /* 1º sessão */
+    .container {
+        display: block;
+        background-position: bottom;
+    }
+
+    .container_caixa {
+        margin: 0 2em;
+        padding: 2em 0;
+    }
+
+    .containerimg {
+        width: 50vw;
+    }
+
+    /* 2º sessão */
+    .secundario {
+        margin: 0;
+        text-align: center;
+    }
+
+    .secundario_img {
+        width: 50vw;
+    }
+
+    /* dispositivos */
+    .dispositivos_lista {
+        display: block;
+    }
+
+    /* footer */
+    .rodape_lista {
+        display: block;
+    }
+}
