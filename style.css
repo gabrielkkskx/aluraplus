@@ -12,6 +12,7 @@
     --sombra: #698daa;
     --dispositivos: #A93CFF;
     --efeito-letra: #666565;
+    --laranja: #EB9B00;
 }
 
 body{
@@ -219,6 +220,18 @@ body{
 
 .led_tv{
     filter: drop-shadow(0 0 0.4em rgb(0, 255, 221));
+}
+
+#copy{
+  background-color: #263138;
+  text-align: center;
+  padding: 24px;
+  color: #FFF;
+}
+
+.nick {
+  color: var(--laranja);
+  text-decoration: none;
 }
 
 @media screen and (max-width: 768px) {
